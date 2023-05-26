@@ -1,6 +1,6 @@
 # Your-Run-Journal
 A Running Tracker Android App that tracks user runs and calculates data based on that run such as distance travelled, time taken, average speed, date and calories burned.
-This App is made using MVVM architecture, google API (Maps SDK for android), courotines, hilt dependency injection, Room Database and a background service which tracks location and time behind the scenes.
+This App is made using MVVM architecture, google API (Maps SDK for android), coroutines, hilt dependency injection, Room Database and a background service which tracks location and time behind the scenes.
 
 This Android project aims to provide a comprehensive learning experience for both basics and advanced topics in the field of Android application development. By covering a wide range of topics, this project is equiped with the necessary knowledge and skills to build robust and feature-rich Android applications.
 
