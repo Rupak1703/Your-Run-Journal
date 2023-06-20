@@ -10,6 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
+        android:textColor="@color/white"
         android:text="Welcome!\nPlease enter your name and weight."
         android:textAlignment="center"
         android:textSize="36sp"
@@ -63,6 +64,7 @@
         android:layout_marginStart="8dp"
         android:text="kg"
         android:textSize="24sp"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="@+id/tilWeight"
         app:layout_constraintLeft_toRightOf="@id/tilWeight"
         app:layout_constraintTop_toTopOf="@+id/tilWeight" />
